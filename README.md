@@ -1,5 +1,5 @@
 # Arduino VU WS2812 JS
-Fork from s-marley/Uno_vu_line -> thanks, nice work ;).
+Fork from [s-marley/Uno_vu_line](https://github.com/s-marley/Uno_vu_line/) -> thanks, nice work ;).
 Code wurde für den Arduino UNO & Co. geschrieben. Es wird ein Stereo VU-Meter für die WS2812b LED's realisiert.
 
 ## Features
